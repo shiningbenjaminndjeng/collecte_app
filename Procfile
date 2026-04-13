@@ -1,0 +1,1 @@
+web: gunicorn collecte_app.wsgi
